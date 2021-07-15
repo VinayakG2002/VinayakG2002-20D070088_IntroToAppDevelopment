@@ -1,3 +1,3 @@
-# App Development
+# LS: Introduction to App Development
 
 
